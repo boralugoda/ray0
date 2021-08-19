@@ -1,5 +1,5 @@
 body {
-	background: #EEE;
+	background: #000;
 	
 }
 @keyframes  aanimate {
@@ -11,7 +11,7 @@ body {
 	}
 }
 .content {
-	background-image: url(file:///C:/Users/rayan/OneDrive/Desktop/MIE%20IMMAGINE/colores.jpg);
+	background-image: url(Colores.JPG);
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
 	font-size: 270px;
